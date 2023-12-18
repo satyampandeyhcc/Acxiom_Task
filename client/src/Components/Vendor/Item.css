@@ -1,0 +1,20 @@
+/* Item.css */
+.item-container {
+  padding: 20px;
+}
+
+.item-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.item {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 300px;
+}
+
+/* Add more styles as needed */
